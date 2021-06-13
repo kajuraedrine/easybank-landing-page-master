@@ -270,7 +270,7 @@ footer p{
         display:block;
         text-align:center;
         font-size:4rem;
-        padding:.5em;
+        padding:.5em 0;
         width:100%;
     }
     .menu{
