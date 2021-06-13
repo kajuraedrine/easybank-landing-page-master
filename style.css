@@ -283,5 +283,6 @@ footer p{
         top:5rem;
         height:3.5em;
         transform:scale(0);
+        padding:2rem;
     }
 }
