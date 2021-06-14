@@ -265,7 +265,7 @@ footer p{
         width:90%;
         background:white;
         transform:scale(0);
-        box-shadow:1px 1px 10px rgba(255,255,255,.5);
+        box-shadow:1px 1px 10px rgba(255,255,255,1);
         
     }
     .navlist__item{
