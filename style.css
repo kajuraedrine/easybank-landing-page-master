@@ -306,19 +306,23 @@ footer p{
         transform:scale(.8,.8);
     }
     .hero-section-content{
+        Text-align:center;
         order:2;
         margin-top:-250px;
         max-width:100%;
         font-size:1rem;
     }
     .hero-section-content p{
+        Text-align:center;
         font-size:1rem;
     }
     .main-header{
+        Text-align:center;
         max-width:100%;
         font-size:1rem;
     }
     .main-header p{
+        Text-align:center;
         font-size:1rem;
     }
     
